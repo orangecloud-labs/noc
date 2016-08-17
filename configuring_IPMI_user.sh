@@ -1,5 +1,4 @@
 #!/bin/bash
-#changes IPMI pw and user
 
 ipmipasswd= "SET_PASSWORD_HERE"
 
